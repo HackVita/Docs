@@ -4,7 +4,7 @@ By "generators" here we mean the list you can find by pressing on "account list"
 
 # Example request
 
-`https://sec-31.hackvita.it/getGeneratorsList?login_key=KEY`
+`https://sec-31.hackvita.it/getGeneratorsList?login_key=APIKEY`
 
 # Successful response
 
@@ -17,6 +17,7 @@ private | is the generator private? (bool)
 
 ```json
 {
+  "ok":true,
   "private" : [
     {
       "id": 6,
