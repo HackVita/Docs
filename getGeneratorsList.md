@@ -6,16 +6,16 @@ By "generators" here we mean the list you can find by pressing on "account list"
 
 `https://sec-31.hackvita.it/getGeneratorsList?login_key=KEY`
 
-# Basic response
+# Successful response
 
 Parameter | Description
 --------- | -----------
-id | the ID of the generator, can be used for example with the methods of the generations
+id | the id of the generator, can be used for example with the methods of the generations
 name | the name of the generator
 link | the link of the generator
 private | is the generator private? (bool)
 
-```
+```json
 {
   "private" : [
     {
@@ -24,10 +24,10 @@ private | is the generator private? (bool)
       "link": "https://www.disneyplus.com/",
       "private": 1
     },
-    ...
+    "..."
   ],
   "public" : [
-    ...
+    "..."
   ]
 }
 ```
