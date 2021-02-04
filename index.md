@@ -20,8 +20,8 @@ We reserve the right to save some information for the sole purpose of offering a
 
 ### Methods
 
-* (/getGeneratorsList)[getGeneratorsList]
-* (/generatePublicAccount)[generatePublicAccount]
-* (/generatePrivateAccount)[generatePrivateAccount]
-* (/getInformationsAboutGeneratorID)[getInformationsAboutGeneratorID]
-* (/getMyStatus)[getMyStatus]
+* [/getGeneratorsList](getGeneratorsList)
+* [/generatePublicAccount](generatePublicAccount)
+* [/generatePrivateAccount](generatePrivateAccount)
+* [/getInformationsAboutGeneratorID](getInformationsAboutGeneratorID)
+* [/getMyStatus](getMyStatus)
