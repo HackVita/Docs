@@ -1,6 +1,6 @@
 # Generate an account from the public generator
 
-You can generate as many daily accounts as your plan allows.
+You can generate as many daily public accounts as your plan allows.
 
 # Example request
 
