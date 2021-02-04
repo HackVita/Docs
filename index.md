@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Welcome to HackVita Documentation
 
-You can use the [editor on GitHub](https://github.com/HackVita/Docs/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The purpose of the API is to be able to integrate HackVita with other external services. The APIs are very simple and intuitive, obviously the [support](t.me/hackvitasupportbot) is always there in case of need.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HackVita Terms
 
-### Markdown
+* Even by using this API, you MUST mention us in case of sharing the accounts generated.
+* You MUST NOT exceed the limit of 1r/s or you will get banned from using the API.
+* We deserve the right to ban anyone from the usage of this API if we consider him not suitable to this service.
+* These Terms of Service could change over time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Who can use the API?
 
-```markdown
-Syntax highlighted code block
+The API can, for the moment, only interact with the public and private generator, not for the shop. So you need to have purchased a plan from the official site.
 
-# Header 1
-## Header 2
-### Header 3
+### Security
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HackVita/Docs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Never share your API key with anyone. This way, you will give full access to the API. HackVita staff does not take any responsibility in such cases.
+We reserve the right to save some information for the sole purpose of offering a better service.
