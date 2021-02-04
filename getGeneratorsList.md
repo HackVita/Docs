@@ -18,7 +18,7 @@ private | is the generator private? (bool)
 ```json
 {
   "ok":true,
-  "private" : [
+  "private": [
     {
       "id": 6,
       "name": "Disney+",
@@ -27,7 +27,7 @@ private | is the generator private? (bool)
     },
     "..."
   ],
-  "public" : [
+  "public": [
     "..."
   ]
 }
