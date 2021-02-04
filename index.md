@@ -1,6 +1,6 @@
 # Welcome to HackVita Documentation
 
-The purpose of the API is to be able to integrate HackVita with other external services. The APIs are very simple and intuitive, obviously the [support](t.me/hackvitasupportbot) is always there in case of need.
+The purpose of the API is to be able to integrate HackVita with other external services. The APIs are very simple and intuitive, obviously the [support](https://t.me/hackvitasupportbot) is always there in case of need.
 
 ### HackVita Terms
 
@@ -17,3 +17,11 @@ The API can, for the moment, only interact with the public and private generator
 
 Never share your API key with anyone. This way, you will give full access to the API. HackVita staff does not take any responsibility in such cases.
 We reserve the right to save some information for the sole purpose of offering a better service.
+
+### Methods
+
+* (/getGeneratorsList)[getGeneratorsList]
+* (/generatePublicAccount)[generatePublicAccount]
+* (/generatePrivateAccount)[generatePrivateAccount]
+* (/getInformationsAboutGeneratorID)[getInformationsAboutGeneratorID]
+* (/getMyStatus)[getMyStatus]
