@@ -1,6 +1,6 @@
 # Get your informations
 
-You can get generator information by using the ID that is for example proposed to you in [/getGeneratorsList](getGeneratorsList).
+Get information regarding your profile and generations.
 
 # Example request
 
