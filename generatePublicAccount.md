@@ -14,7 +14,7 @@ alt | The account and password, in the form of `username:password`.
 
 ```json
 {
-  "ok":true,
-  "alt":"hello@hackvita.it:hackvitatopgenerator2021"
+  "ok": true,
+  "alt": "hello@hackvita.it:hackvitatopgenerator2021"
 }
 ```
