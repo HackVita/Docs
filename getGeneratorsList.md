@@ -11,3 +11,22 @@ login_key | Access key obtained from the site
 # Example request
 
 `https://sec-31.hackvita.it/getGeneratorsList?login_key=KEY`
+
+# Basic response
+
+```json
+{
+  "private" : [
+    {
+      "id": 6,
+      "name": "Disney+",
+      "link": "https://www.disneyplus.com/",
+      "private": 1
+    },
+    ...
+  ],
+  "public" : [
+    ...
+  ]
+}
+```
