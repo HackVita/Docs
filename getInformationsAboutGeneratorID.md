@@ -18,9 +18,11 @@ is_generator_private | is generator private? (bool)
 ```json
 {
   "ok": true,
-  "generator_id": 6,
-  "generator_name": "Disney+",
-  "service_link": "https://www.disneyplus.com/",
-  "is_generator_private": true
+  "informations": {
+    "generator_id": 6,
+    "generator_name": "Disney+",
+    "service_link": "https://www.disneyplus.com/",
+    "is_generator_private": true
+  }
 }
 ```
