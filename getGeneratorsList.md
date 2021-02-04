@@ -17,7 +17,7 @@ private | is the generator private? (bool)
 
 ```json
 {
-  "ok":true,
+  "ok": true,
   "private": [
     {
       "id": 6,
