@@ -2,19 +2,20 @@
 
 By "generators" here we mean the list you can find by pressing on "account list" in the panel.
 
-# Parameters
-
-Parameter | Description
---------- | -----------
-login_key | Access key obtained from the site
-
 # Example request
 
 `https://sec-31.hackvita.it/getGeneratorsList?login_key=KEY`
 
 # Basic response
 
-```json
+Parameter | Description
+--------- | -----------
+id | the ID of the generator, can be used for example with the methods of the generations
+name | the name of the generator
+link | the link of the generator
+private | is the generator private? (bool)
+
+```
 {
   "private" : [
     {
