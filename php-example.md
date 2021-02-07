@@ -11,9 +11,9 @@ curl_setopt($request, CURLOPT_URL, "https://sec-31.hackvita.it/METHOD?api_login=
 $response = curl_exec($request);
 $response = json_decode($response);
 curl_close($request);
-if($response['ok']){
-  echo 'OK!';
-}else{
-  echo 'OH NO!';
+if ($response['ok']) {
+    echo 'OK!';
+} else {
+    echo 'OH NO!';
 }
 ```
