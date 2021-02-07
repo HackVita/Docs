@@ -11,12 +11,12 @@ The purpose of the API is to be able to integrate HackVita with other external s
 
 ### What's different from the old API?
 
-* **genShared** is now [generatePublicAccount](generatePublicAccount)
-* **genPrivate** is now [generatePrivateAccount](generatePrivateAccount)
-* **getStatus** is now [getInformationsAboutGeneratorID](getInformationsAboutGeneratorID)
-* **getStats** is now [getMyStatus](getMyStatus)
-* **getGenerators** is now [getGeneratorsList](getGeneratorsList)
-* getSharedGenerators and getPrivateGenerators have been removed
+* ~~genShared~~ is now **generatePublicAccount**
+* ~~genPrivate~~ is now **generatePrivateAccount**
+* ~~getStatus~~ is now **getInformationsAboutGeneratorID**
+* ~~getStats~~ is now **getMyStatus**
+* ~~getGenerators~~ is now **getGeneratorsList**
+* ~~getSharedGenerators~~ and ~~getPrivateGenerators~~ have been removed
 
 ### Who can use the API?
 
