@@ -10,10 +10,9 @@ curl_setopt($request, CURLOPT_POST, 0);
 curl_setopt($request, CURLOPT_URL, "https://sec-31.hackvita.it/METHOD?api_login=".$api_login."&ETCQUERY");
 $response = curl_exec($request);
 $response = json_decode($response);
+$errors = curl_error($request);
 curl_close($request);
-if ($response['ok']) {
-    echo 'OK!';
-} else {
-    echo 'OH NO!';
+if (!$errors) {
+    echo $response;
 }
 ```
