@@ -9,15 +9,6 @@ The purpose of the API is to be able to integrate HackVita with other external s
 * We deserve the right to ban anyone from the usage of this API if we consider him not suitable to this service.
 * These Terms of Service could change over time.
 
-### What's different from the old API?
-
-* ~~genShared~~ is now **generatePublicAccount**
-* ~~genPrivate~~ is now **generatePrivateAccount**
-* ~~getStatus~~ is now **getInformationsAboutGeneratorID**
-* ~~getStats~~ is now **getMyStatus**
-* ~~getGenerators~~ is now **getGeneratorsList**
-* ~~getSharedGenerators~~ and ~~getPrivateGenerators~~ have been removed
-
 ### Who can use the API?
 
 The API can, for the moment, only interact with the public and private generator, not for the shop. So you need to have purchased a plan from the official site.
