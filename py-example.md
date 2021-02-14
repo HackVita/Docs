@@ -15,3 +15,4 @@ parameters = {
 result = requests.get(f"https://sec-31.hackvita.it/{method}", params=parameters)
 print(result.json())
 ```
+___The code was provided by [@CrisMystik](https://t.me/crismystik)___
